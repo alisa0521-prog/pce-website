@@ -109,3 +109,9 @@ footer {
     background: rgba(0, 0, 0, 0.8);
     margin-top: 40px;
 }
+.logo {
+    width: 150px;  /* 调整 Logo 宽度 */
+    height: auto;  /* 保持图片原始比例 */
+    display: block;
+    margin: 20px auto;  /* 居中 */
+}
